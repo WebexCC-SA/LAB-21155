@@ -1,6 +1,6 @@
 # Lab Guide for WebexOne Lab LABXXX-1234
 
-Web guide link: https://kevsimps.github.io/wx1_26/
+Web guide link: https://webexcc-sa.github.io/LAB-21155/
 
 
 ## DOCX to Markdown script
