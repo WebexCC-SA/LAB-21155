@@ -10,23 +10,23 @@ By default, Webex Calling will not let to make inbound and outbound calls until 
 
     NOTE: You need to Replace XXX and YY with your session-specific details.  If you haven't already done as explained in the Accessing your lab section, go to your dCloud Session Info tab.  It will open a fly-out window on left side.  On the fly-out window scroll down and find the DNS section drop shown below.  Copy the domain starting from cb (It will be in the cbXXX.dc-YY.com format)
 
-![](./assets/image13.png)
+    ![](./assets/image13.png)
 
 !!! note "Note"
 
     NOTE: For the password, replace ZZZZ with the last four digits of your dCloud session ID. For example, if your dCloud session ID is 1168643, then the password would be dCloud8643!  Your session ID can be found under your dCloud Session Info tab as shown below.
 
-![](./assets/image14.png)
+    ![](./assets/image14.png)
 
 2. Before we start working on lab, let's update Webex Control Hub idle timeout.  By default, Webex Control Hub logs out <strong>every 20 minutes</strong>.  Let's update that timeout so you would not need to login to Webex Control Hub multiple time.  On Webex the Control Hub, on left side pane go to <strong>MANAGEMENT</strong> &gt; <strong>Organization Settings</strong>.  On the Organization Settings page scroll down a little and drop down the option for <strong>Control Hub’s idle timeout</strong> to <strong>No timeout</strong> and click <strong>Save</strong>.
 
-![](./assets/image15.png)
+    ![](./assets/image15.png)
 
 3. Now, go to <strong>SERVICES</strong> &gt; <strong>PSTN &amp; Routing</strong>. Click + <strong>Add Numbers</strong> under Numbers tab.
 
 4. On the <strong>Add Numbers</strong> page, drop down the option for Location and choose <strong>dCloud. </strong>Since we are setting up this location for the first time, first we need to select the PSTN Connection for this location.  Click <strong>Edit</strong> <strong>PSTN</strong>.
 
-![](./assets/image16.png)
+    ![](./assets/image16.png)
 
 5. You will be taken to <strong>Edit PSTN connection for dCloud</strong> (Location) and under the connection type choose <strong>Premises-based PSTN</strong> (formerly local gateway) and click <strong>Next</strong>.
 
@@ -42,7 +42,7 @@ By default, Webex Calling will not let to make inbound and outbound calls until 
 
     Webex will format them automatically and if needed adds respective local area code etc.,
 
-![](./assets/image17.png)
+    ![](./assets/image17.png)
 
 9. Click <strong>Close</strong> on the following page and you will be taken to the Numbers page where you can see all the numbers you have just added.
 
@@ -52,8 +52,8 @@ By default, Webex Calling will not let to make inbound and outbound calls until 
 
 12. Drop down the option for <strong>Main Number</strong> and choose any of the numbers you imported above and click <strong>Save</strong>.
 
-![](./assets/image18.png)
+    ![](./assets/image18.png)
 
 13. As soon as you save, the warning will disappear, indicating now your location can make and receive calls.
 
-![](./assets/image19.png)
+    ![](./assets/image19.png)
