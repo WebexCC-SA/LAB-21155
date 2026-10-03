@@ -91,6 +91,13 @@ nav:
   - "Chapter 1 Configuring Webex Calling Location and Adding DIDs":
       - "Configuring Webex Calling Location": configuring-location.md
       - "Assigning Webex Calling Licensing users": licensing-users.md
+  - "Chapter 2 Local Gateway Configuration and verification of call routing":
+      - "Webex Local Gateway": gateway.md
+      - "Adding Trunk to Control Hub": adding-trunk.md
+      - "Configuring Local Gateway as Reg-based gateway": configuring-local-gateway.md
+      - "Verifying Trunk Status": verifying-trunk-status.md
+      - "Setup Call Routing": setup-call-routing.md
+      - "Verify Call Routing": verify-call-routing.md
 #  - Welcome: welcome.md
   - Lab:
       - Overview: overview.md
