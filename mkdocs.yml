@@ -88,10 +88,10 @@ nav:
   - Home: index.md
   - "About this Lab": welcome.md
   - "Getting started / Accessing the lab": getting-started.md
-  - "Chapter 1 Configuring Webex Calling Location and Adding DIDs":
+  - "Chapter 1":
       - "Configuring Webex Calling Location": configuring-location.md
       - "Assigning Webex Calling Licensing users": licensing-users.md
-  - "Chapter 2 Local Gateway Configuration and verification of call routing":
+  - "Chapter 2":
       - "Webex Local Gateway": gateway.md
       - "Adding Trunk to Control Hub": adding-trunk.md
       - "Configuring Local Gateway as Reg-based gateway": configuring-local-gateway.md

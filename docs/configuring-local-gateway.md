@@ -2,11 +2,10 @@
 
 ## Configuring the Local Gateway platform as a registration-based LGW for Webex Calling
 
-* Continuing on Workstation 1, Open <strong>Putty</strong> \[
+* Continuing on Workstation 1, Open <strong>Putty</strong> from the taskbar.  Connect to <strong>198.18.133.226</strong> over SSH.
 
 ![](./assets/image28.png)
 
-\] from the taskbar.  Connect to <strong>198.18.133.226</strong> over SSH.
 
 * Login with <strong>admin</strong>/<strong>dCloud123!</strong>
 
