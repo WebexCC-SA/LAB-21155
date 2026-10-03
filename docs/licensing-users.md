@@ -4,21 +4,21 @@
 
 In this lab we will be using user Charles Holland (extension 6018) to make inbound/outbound calls.  Let's assign Webex Calling license and DID number to Charles.
 
-1. Continuing Workstation 1, Webex Control Hub, go to <strong>MANAGEMENT</strong> &gt; <strong>Users.</strong>
+* Continuing Workstation 1, Webex Control Hub, go to <strong>MANAGEMENT</strong> &gt; <strong>Users.</strong>
 
-2. Select <strong>Charles Holland</strong> user from the list of users.
+* Select <strong>Charles Holland</strong> user from the list of users.
 
-3. On the user <strong>Summary </strong>page scroll down and click <strong>Edit Licenses</strong>
+* On the user <strong>Summary </strong>page scroll down and click <strong>Edit Licenses</strong>
 
 ![](./assets/image20.png)
 
-4. On the next page click <strong>Edit Licenses</strong> (towards the bottom right) again.
+* On the next page click <strong>Edit Licenses</strong> (towards the bottom right) again.
 
-5. On the next page go to the<strong> Calling</strong> tab and check mark for both options <strong>Webex Calling</strong> and <strong>Professional</strong> and Click <strong>Save</strong>.
+* On the next page go to the<strong> Calling</strong> tab and check mark for both options <strong>Webex Calling</strong> and <strong>Professional</strong> and Click <strong>Save</strong>.
 
 ![](./assets/image21.png)
 
-6. On the next page, in the dropdown option for Location, select <strong>dCloud</strong>. Drop down <strong>Phone Number </strong>field and select one of the PSTN Numbers available.  Select any number other than the number you have assigned as the Main Number (previous module). Populate the extension field with <strong>6018</strong> for the user. Click <strong>Save</strong>. Click <strong>Close.  </strong>
+* On the next page, in the dropdown option for Location, select <strong>dCloud</strong>. Drop down <strong>Phone Number </strong>field and select one of the PSTN Numbers available.  Select any number other than the number you have assigned as the Main Number (previous module). Populate the extension field with <strong>6018</strong> for the user. Click <strong>Save</strong>. Click <strong>Close.  </strong>
 
 !!! note "Note"
 
@@ -26,8 +26,8 @@ In this lab we will be using user Charles Holland (extension 6018) to make inbou
 
 ![](./assets/image22.png)
 
-7. You will be taken back to the user <strong>Summary</strong> page. Notice that under <strong>Licenses</strong>, now <strong>Webex Calling Professional</strong> has been added for the <strong>Calling</strong> service.
+* You will be taken back to the user <strong>Summary</strong> page. Notice that under <strong>Licenses</strong>, now <strong>Webex Calling Professional</strong> has been added for the <strong>Calling</strong> service.
 
 ![](./assets/image23.png)
 
-8. This completes assigning <strong>Webex Calling licenses</strong> and <strong>DID numbers</strong> to the users.
+* This completes assigning <strong>Webex Calling licenses</strong> and <strong>DID numbers</strong> to the users.
