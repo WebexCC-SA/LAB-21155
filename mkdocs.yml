@@ -98,21 +98,31 @@ nav:
       - "Verifying Trunk Status": verifying-trunk-status.md
       - "Setup Call Routing": setup-call-routing.md
       - "Verify Call Routing": verify-call-routing.md
+  - "Chapter 3":
+      - "Overview": sgw.md
+      - "Install Gateway Connector": install-gateway-connector.md
+      - "Configure Survivability Gateway": configure-survivability-gateway.md
+      - "Sync data to Survivability Gateway": sync-data.md
+      - "Test Calls during Survivability event (failover)": test-failover.md
+  - "Bonus Section":
+      - "Overview": bonus.md
+      - "Setup Call Routing": bonus-setup-call-routing.md
+      - "Test Calls with CUCM User(s) with and without Survivability event": bonus-test-calls.md
 #  - Welcome: welcome.md
-  - Lab:
-      - Overview: overview.md
-      - Lab 1 - Getting Started: lab1_getting_started.md
-      - Conclusion: conclusion.md
-  - Topologies: topologies.md
-  - How to use this guide:
-      - Setting up and using the tool:
-        - Initial Setup: howToUse/initialSetup.md
-        - Using the tool after the initial setup: howToUse/postInitial.md
-        - Publishing your changes: howToUse/syncChanges.md
-      - Useful Tools and Resources: howToUse/usefulTools.md
-      - Importing from Word (docx): howToUse/importingFromWord.md
-      - Styling and Advanced Features:
-        - Custom Features: howToUse/customFeatures.md
-        - Custom Admonitions: howToUse/admonition.md
-      - Looking for Inspiration: howToUse/previousEventLabs.md
-      - Before the Event: howToUse/beforeTheEvent.md
+#  - Lab:
+#      - Overview: overview.md
+#      - Lab 1 - Getting Started: lab1_getting_started.md
+#      - Conclusion: conclusion.md
+#  - Topologies: topologies.md
+#  - How to use this guide:
+#      - Setting up and using the tool:
+#        - Initial Setup: howToUse/initialSetup.md
+#        - Using the tool after the initial setup: howToUse/postInitial.md
+#        - Publishing your changes: howToUse/syncChanges.md
+#      - Useful Tools and Resources: howToUse/usefulTools.md
+#      - Importing from Word (docx): howToUse/importingFromWord.md
+#      - Styling and Advanced Features:
+#        - Custom Features: howToUse/customFeatures.md
+#        - Custom Admonitions: howToUse/admonition.md
+#      - Looking for Inspiration: howToUse/previousEventLabs.md
+#      - Before the Event: howToUse/beforeTheEvent.md
