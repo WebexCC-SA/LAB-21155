@@ -89,9 +89,8 @@ nav:
   - "About this Lab": welcome.md
   - "Getting started / Accessing the lab": getting-started.md
   - "Chapter 1 Configuring Webex Calling Location and Adding DIDs":
-      - "Overview": chapter-1/index.md
-      - "Configuring Webex Calling Location": chapter-1/configuring-location.md
-      - "Assigning Webex Calling Licensing users": chapter-1/licensing-users.md
+      - "Configuring Webex Calling Location": configuring-location.md
+      - "Assigning Webex Calling Licensing users": licensing-users.md
 #  - Welcome: welcome.md
   - Lab:
       - Overview: overview.md
