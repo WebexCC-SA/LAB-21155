@@ -1,20 +1,20 @@
 # Getting started / Accessing the Lab
 
-1. Open a browser on your laptop and go to [https://www.ciscodcloud.com/apps/expo/do7a3najaico08lagoxcbosm0](https://www.ciscodcloud.com/apps/expo/do7a3najaico08lagoxcbosm0)
+* Open a browser on your laptop and go to [https://www.ciscodcloud.com/apps/expo/do7a3najaico08lagoxcbosm0](https://www.ciscodcloud.com/apps/expo/do7a3najaico08lagoxcbosm0)
 
-2. Click “Explore”
+* Click “Explore”
 
 ![](./assets/gateway1.png)
 
-3. Enter your Email address and click “Launch”
+* Enter your Email address and click “Launch”
 
 ![](./assets/gateway2.png)
 
-4. You will be automatically assigned to a lab pod, and you will see this page. Click “View Session”
+* You will be automatically assigned to a lab pod, and you will see this page. Click “View Session”
 
 ![](./assets/gateway3.png)
 
-5. and you will be taken to the Lab topology page as shown below.
+* And you will be taken to the Lab topology page as shown below.
 
 <strong>
 
@@ -22,7 +22,7 @@
 
 </strong>
 
-6. Click on the <strong>User Workstation 1</strong> icon on the topology page and it will bring up a fly-out window on left with <strong>Workstation 1</strong> related information like <strong>IP Address</strong>, <strong>username</strong>, and <strong>password</strong> as shown below.
+* Click on the <strong>User Workstation 1</strong> icon on the topology page and it will bring up a fly-out window on left with <strong>Workstation 1</strong> related information like <strong>IP Address</strong>, <strong>username</strong>, and <strong>password</strong> as shown below.
 
 <strong>
 
@@ -30,11 +30,11 @@
 
 </strong>
 
-7. Similarly, you can click on any other Virtual Machine on the topology page to get its respective details.
+* Similarly, you can click on any other Virtual Machine on the topology page to get its respective details.
 
-8. In this lab, you will access <strong>Workstation 1</strong> (through <strong>WebRDP</strong> or <strong>Remote Desktop</strong>) and from <strong>Workstation 1</strong> you will be able to access all the CUBE/Local Gateway to complete the lab tasks.
+* In this lab, you will access <strong>Workstation 1</strong> (through <strong>WebRDP</strong> or <strong>Remote Desktop</strong>) and from <strong>Workstation 1</strong> you will be able to access all the CUBE/Local Gateway to complete the lab tasks.
 
-9. There are two ways you can access <strong>Workstation 1</strong>. You can either connect via a <strong>local RDP</strong> connection (option A - preferred) connection or via a <strong>WebRDP</strong> connection (option B) from your classroom laptop.
+* There are two ways you can access <strong>Workstation 1</strong>. You can either connect via a <strong>local RDP</strong> connection (option A - preferred) connection or via a <strong>WebRDP</strong> connection (option B) from your classroom laptop.
 
 ## <strong>Option (A)</strong> <strong>– \[Preferred\]</strong>
 
@@ -60,11 +60,11 @@ To access Workstation 1 over <strong>WebRDP</strong>, click on the <strong>Works
 
 ![](./assets/gateway7.png)
 
-10. Once you are connected to Workstation 1, go to your dCloud lab topology page, click on the <strong>Info</strong> tab, and a fly-out window will open on the left side. Here you will find all your lab-related information like the <strong>Session ID</strong>, <strong>VPN</strong> connection details, <strong>DNS Domain</strong> name and <strong>PSTN Numbers,</strong> etc., You will need all this information throughout this lab.
+* Once you are connected to Workstation 1, go to your dCloud lab topology page, click on the <strong>Info</strong> tab, and a fly-out window will open on the left side. Here you will find all your lab-related information like the <strong>Session ID</strong>, <strong>VPN</strong> connection details, <strong>DNS Domain</strong> name and <strong>PSTN Numbers,</strong> etc., You will need all this information throughout this lab.
 
 ![](./assets/gateway8.png)
 
-11. On <strong>Workstation 1</strong>, Desktop there is text file named “Session\_Info.txt”. This file has all the credentials information will be required throughout the lab modules.
+* On <strong>Workstation 1</strong>, Desktop there is text file named “Session\_Info.txt”. This file has all the credentials information will be required throughout the lab modules.
 
 <strong>Session ID</strong>, <strong>Control Hub Username, </strong><strong>Control Hub password</strong><strong>, Domain.</strong>
 

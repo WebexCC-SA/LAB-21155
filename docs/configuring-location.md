@@ -6,17 +6,7 @@ By default, Webex Calling will not let to make inbound and outbound calls until 
 
 * Open RDP connection to Workstation 1 at 198.18.1.36 using Option A or Option B as described in <strong>Get Started</strong> section above. Once connected to Workstation 1, Open Chrome browser from task bar &amp; go to Collaboration Admin Links &gt; Cisco Webex Control Hub. Log in to <strong>Webex Control Hub</strong> as [cholland@cbXXX.dc-YY.com](mailto:cholland@cbXXX.dc-YY.com) &amp; <strong>dCloudZZZZ!</strong>
 
-!!! note "Note"
-
-    You need to Replace XXX and YY with your session-specific details.  If you haven't already done as explained in the Accessing your lab section, go to your dCloud Session Info tab.  It will open a fly-out window on left side.  On the fly-out window scroll down and find the DNS section drop shown below.  Copy the domain starting from cb (It will be in the cbXXX.dc-YY.com format)
-
-![](./assets/image13.png)
-
-!!! note "Note"
-
-    For the password, replace ZZZZ with the last four digits of your dCloud session ID. For example, if your dCloud session ID is 1168643, then the password would be dCloud8643!  Your session ID can be found under your dCloud Session Info tab as shown below.
-
-![](./assets/image14.png)
+* You can find the Control Hub Username and Password from the "Session_info.txt" that you have already opened. Use the credentials from there and login to the Control Hub.
 
 * Before we start working on lab, let's update Webex Control Hub idle timeout.  By default, Webex Control Hub logs out <strong>every 20 minutes</strong>.  Let's update that timeout so you would not need to login to Webex Control Hub multiple time.  On Webex the Control Hub, on left side pane go to <strong>MANAGEMENT</strong> &gt; <strong>Organization Settings</strong>.  On the Organization Settings page scroll down a little and drop down the option for <strong>Control Hub’s idle timeout</strong> to <strong>No timeout</strong> and click <strong>Save</strong>.
 

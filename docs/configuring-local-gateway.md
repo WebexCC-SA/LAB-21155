@@ -11,7 +11,7 @@
 
 !!! note "Note"
 
-    <strong>NOTE</strong>:  All the commands that are required to configure the Local Gateway are put in a text file called <em><strong>Wx</strong></em><em><strong>1</strong></em><em><strong>2025-GW-Config.txt</strong></em> on workstation 1 at <strong>Desktop</strong>.  If you are having trouble copying these commands from this document due to formatting issues, you can copy those commands from this file to <strong>Putty</strong>.  Right click on the file and click Edit with Notepad++.
+    <strong>NOTE</strong>:  All the commands that are required to configure the Local Gateway are put in a text file called <em><strong>Wx</strong></em><em><strong>1</strong></em><em><strong>2026-GW-Config.txt</strong></em> on workstation 1 at <strong>Desktop</strong>.  If you are having trouble copying these commands from this document due to formatting issues, you can copy those commands from this file to <strong>Putty</strong>.  Right click on the file and click Edit with Notepad++.
 
 ![](./assets/image29.png)
 
