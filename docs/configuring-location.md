@@ -28,7 +28,7 @@ By default, Webex Calling will not let to make inbound and outbound calls until 
 
 !!! note "Note"
 
-    <strong>NOTE</strong>: You will not face this issue of numbers being taken in production as you own the numbers from your Telco provider for your organization.
+    You will not face this issue of numbers being taken in production as you own the numbers from your Telco provider for your organization.
 
     Webex will format them automatically and if needed adds respective local area code etc.,
 

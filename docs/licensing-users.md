@@ -22,7 +22,7 @@ In this lab we will be using user Charles Holland (extension 6018) to make inbou
 
 !!! note "Note"
 
-    <strong>NOTE</strong><strong>:</strong> Note the PSTN Number you have assigned to Charles Holland in a notepad file (including country code +1) where you have all the other details of the lab. You will need this number later in the lab.
+    The PSTN Number you have assigned to Charles Holland in a notepad file (including country code +1) where you have all the other details of the lab. You will need this number later in the lab.
 
 ![](./assets/image22.png)
 

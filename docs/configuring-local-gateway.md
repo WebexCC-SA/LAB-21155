@@ -11,7 +11,7 @@
 
 !!! note "Note"
 
-    <strong>NOTE</strong>:  All the commands that are required to configure the Local Gateway are put in a text file called <em><strong>Wx</strong></em><em><strong>1</strong></em><em><strong>2026-GW-Config.txt</strong></em> on workstation 1 at <strong>Desktop</strong>.  If you are having trouble copying these commands from this document due to formatting issues, you can copy those commands from this file to <strong>Putty</strong>.  Right click on the file and click Edit with Notepad++.
+    All the commands that are required to configure the Local Gateway are put in a text file called <em><strong>Wx</strong></em><em><strong>1</strong></em><em><strong>2026-GW-Config.txt</strong></em> on workstation 1 at <strong>Desktop</strong>.  If you are having trouble copying these commands from this document due to formatting issues, you can copy those commands from this file to <strong>Putty</strong>.  Right click on the file and click Edit with Notepad++.
 
 ![](./assets/image29.png)
 
@@ -261,23 +261,23 @@ Defines STUN usage. Will be applied to all Webex facing (2XX tag) dial-peers to 
 ```text
 configure terminal
 voice class tenant 200
-registrar dns:40462196.cisco-bcld.com scheme sips expires 240 refresh-ratio 50 tcp tls
-credentials number dCloud-Trunk7091_LGU username dCloud-Trunk3718_LGU password 0 *}Pr@]Mw)Q realm BroadWorks
-authentication username dCloud-Trunk3718_LGU password 0 *}Pr@]Mw)Q realm BroadWorks
-authentication username dCloud-Trunk3718_LGU password 0 *}Pr@]Mw)Q realm 40462196.cisco-bcld.com
+registrar dns:###Registrar-Domain### scheme sips expires 240 refresh-ratio 50 tcp tls
+credentials number ###Line/Port### username ###Username### password 0 ###Password### realm BroadWorks
+authentication username ###Username### password 0 ###Password### realm BroadWorks
+authentication username ###Username### password 0 ###Password### realm ###Registrar-Domain###
 no remote-party-id
-sip-server dns:40462196.cisco-bcld.com
+sip-server dns:###Registrar-Domain###
 connection-reuse
 srtp-crypto 200
-session transport tcp tls
-url sips
+session transport tcp tls 
+url sips 
 error-passthru
-asserted-id pai
+asserted-id pai 
 bind control source-interface GigabitEthernet1
 bind media source-interface GigabitEthernet1
-no pass-thru content custom-sdp
-sip-profiles 200
-outbound-proxy dns:dfw03.sipconnect-us.bcld.webex.com
+no pass-thru content custom-sdp 
+sip-profiles 200 
+outbound-proxy dns:###Outbound Proxy Address###  
 privacy-policy passthru
 end
 

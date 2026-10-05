@@ -38,7 +38,7 @@
 
 ## <strong>Option (A)</strong> <strong>– \[Preferred\]</strong>
 
-To connect to the Workstation using your <strong>local RDP connection</strong>, first, you need to connect to your lab session via <strong>VPN</strong>. Open <strong>Cisco AnyConnect</strong> client on your laptop. It will prompt you for the <strong>Host Address</strong>, <strong>username,</strong> and <strong>password</strong> information for your session.  You will find all these details under the <strong>Info</strong> &gt; <strong>AnyConnect</strong> <strong>Credentials</strong> section of your lab.  Enter all the details as shown below and click <strong>OK</strong> to connect to your session.  The <strong>Host Address</strong>, <strong>username,</strong> and <strong>password </strong>will be different for each lab.  Use <strong>YOUR OWN</strong> assigned lab details.
+To connect to the Workstation using your <strong>local RDP connection</strong>, first, you need to connect to your lab session via <strong>VPN</strong>. Open <strong>Cisco Secure Client</strong> client on your laptop. It will prompt you for the <strong>Host Address</strong>, <strong>username,</strong> and <strong>password</strong> information for your session.  You will find all these details under the <strong>Info</strong> &gt; <strong>Cisco Secure Client</strong> <strong>Credentials</strong> section of your lab.  Enter all the details as shown below and click <strong>OK</strong> to connect to your session.  The <strong>Host Address</strong>, <strong>username,</strong> and <strong>password </strong>will be different for each lab.  Use <strong>YOUR OWN</strong> assigned lab details.
 
 <strong>
 
