@@ -50,7 +50,7 @@ end
 
 !!! note "Note"
 
-    <strong>NOTE:</strong> This is the DID number you assigned to Charles Holland during Webex Calling License assignment. If you have taken the note of the DID number when assigned, you can get it by going on to <strong>Webex Control Hub</strong> &amp; <strong>SERVICES</strong> &gt; <strong>PSTN &amp; Routing</strong> &gt; <strong>Numbers</strong> and copy the number Assigned to <strong>Charles Holland</strong><strong> (including + and country code as shown below)</strong>.
+    This is the DID number you assigned to Charles Holland during Webex Calling License assignment. If you have taken the note of the DID number when assigned, you can get it by going on to <strong>Webex Control Hub</strong> &amp; <strong>SERVICES</strong> &gt; <strong>PSTN &amp; Routing</strong> &gt; <strong>Numbers</strong> and copy the number Assigned to <strong>Charles Holland</strong><strong> (including + and country code as shown below)</strong>.
 
 ! – E164 pattern map for Webex
 
@@ -156,7 +156,7 @@ voice translation-rule 100000
 
 !!! note "Note"
 
-    <strong>NOTE:</strong> This is the DID number you assigned to Charles Holland during Webex Calling License assignment. If you have taken the note of the DID number when assigned, you can get it by going on to <strong>Webex Control Hub</strong> &amp; <strong>SERVICES</strong> &gt; <strong>PSTN &amp; Routing</strong> &gt; <strong>Numbers</strong> and copy the number Assigned to <strong>Charles Holland</strong><strong> (including + and country code as shown below)</strong>.
+    This is the DID number you assigned to Charles Holland during Webex Calling License assignment. If you have taken the note of the DID number when assigned, you can get it by going on to <strong>Webex Control Hub</strong> &amp; <strong>SERVICES</strong> &gt; <strong>PSTN &amp; Routing</strong> &gt; <strong>Numbers</strong> and copy the number Assigned to <strong>Charles Holland</strong><strong> (including + and country code as shown below)</strong>.
 
 ![](./assets/image45.png)
 

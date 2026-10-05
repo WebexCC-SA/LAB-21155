@@ -6,7 +6,7 @@
 
 * Continuing on Workstation 1, minimize all the applications on the Desktop and open Webex from the Desktop.
 
-* Login as [cholland@cbXXX.dc-YY.com](mailto:cholland@cbXXX.dc-YY.com) and dCloud<em><strong>ZZZZ</strong></em>! Where <strong>ZZZZ</strong> is the last four numbers given to you from your dCloud Session ID.
+* Login as [cholland@cbXXX.dc-YY.com](mailto:cholland@cbXXX.dc-YY.com), the credentials are in the Credential file in the Desktop.
 
 * Click <strong>OK</strong> for the <strong>Emergency Calling Notification</strong>
 
