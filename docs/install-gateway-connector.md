@@ -80,7 +80,7 @@ This command runs precondition check to validate requirements for CUBE like disk
 
 ## Enroll the IOS-XE gateway in the Webex Control Hub
 
-* Continuing on Workstation 1, minimize Putty and other applications.  Go back browser tab where you have logged into Webex Control Hub.  If the previous login timed out login as [cholland@cbXXX.dc-YY.com](mailto:cholland@cbXXX.dc-YY.com) and dCloud123!
+* Continuing on Workstation 1, minimize Putty and other applications.  Go back browser tab where you have logged into Webex Control Hub.  If the previous login timed out login as [cholland@cbXXX.dc-YY.com](mailto:cholland@cbXXX.dc-YY.com).
 
 * On the Control hub page go to <strong>SERVICES</strong> &gt; <strong>PSTN &amp; Routing</strong>.  On the <strong>PSTN &amp; Routing</strong> page go to <strong>Gateway Configurations &gt;</strong> <strong>Managed gateway</strong><strong>s</strong> tab.  Click <strong>Add gateway</strong>.
 
@@ -104,7 +104,7 @@ This command runs precondition check to validate requirements for CUBE like disk
 
 ![](./assets/image64.png)
 
-* If it will take you to Webex Control Hub login page.  Login as [cholland@cbXXX.dc-YY.com](mailto:cholland@cbXXX.dc-YY.com) &amp; dCloudZZZZ!
+* If it will take you to Webex Control Hub login page.  Login as [cholland@cbXXX.dc-YY.com](mailto:cholland@cbXXX.dc-YY.com)
 
 * Once Control Hub credentials are entered, on the Allow Access to Gateway Management Connector page, <strong>check mark</strong> option to <strong>Allow Access to Gateway Management Connector</strong> and click <strong>Continue</strong>.
 
@@ -130,7 +130,7 @@ This command runs precondition check to validate requirements for CUBE like disk
 
 - Drop down option for <strong>Location</strong> and select <strong>dCloud</strong>
 
-- Enter the Host Name as <strong>cube</strong><strong>.cbXXX.dc-YY.com  </strong>(replace cbXXX.dc-YY.com)
+- Enter the Host Name as <strong>cube</strong><strong>.cbXXX.dc-YY.com  </strong>(replace cbXXX.dc-YY.com - this is the same domain from Charles Holland email domain portion)
 
 - Enter the IP Address as <strong>198.18.133.</strong><strong>22</strong><strong>6</strong> (GigabitEthernet2)
 

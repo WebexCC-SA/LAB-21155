@@ -4,7 +4,7 @@
 
 The Webex Calling user can dial the On-prem CUCM user using an internal extension or using E164 number. We already have pre-configured On-prem CUCM Jabber user Anita Perez with Extension 6017 and E164 number +19725556017
 
-* On Workstation 1, go back to browser tab where you have Webex Control Hub logged in.  If the previous login timed out login as [<strong>cholland@cbXXX.dc-YY.com</strong>](mailto:cholland@cbXXX.dc-YY.com) and <strong>dCloudZZZZ!</strong>
+* On Workstation 1, go back to browser tab where you have Control Hub logged in.  If the previous login timed out login as [<strong>cholland@cbXXX.dc-YY.com</strong>](mailto:cholland@cbXXX.dc-YY.com)
 
 * Navigate to <strong>MANAGEMENT</strong> &gt; <strong>Locations</strong>. Select the Location <strong>dCloud</strong><strong>.  </strong>On the dCloud location page go to <strong>Calling</strong> tab.  and click on <strong>Calling</strong> &gt; <strong>Internal Dialing</strong><strong>.</strong>
 

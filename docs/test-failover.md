@@ -4,7 +4,7 @@
 
 For testing the Site survivability we will manually trigger the failover so users will register to the Survivability gateway.  However before triggering the site survivability, let’s make sure that calling is working in normal mode.
 
-* Continuing on Workstation 1.  Minimize all applications and bring up Webex.  If not already logged in, login as [cholland@cbXXX.dc-YY.com](mailto:cholland@cbXXX.dc-YY.com) &amp; dCloudZZZZ!.  Once logged in click OK for Emergency Call notification.
+* Continuing on Workstation 1.  Minimize all applications and bring up Webex.  If not already logged in, login as [cholland@cbXXX.dc-YY.com](mailto:cholland@cbXXX.dc-YY.com).  Once logged in click OK for Emergency Call notification.
 
 * Now go back to putty session where you have logged into <strong>cube</strong><strong>.  </strong>Login back in with credentials <strong>admin</strong>/<strong>dCloud123!</strong> at IP address <strong>198.18.133.226</strong> If previous login timed out.
 
